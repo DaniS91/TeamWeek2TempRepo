@@ -62,6 +62,7 @@
     <Compile Include="Assets\Scripts\PlayerController.cs" />
     <Compile Include="Assets\Scripts\AudioManager.cs" />
     <Compile Include="Assets\Scripts\RabbitController.cs" />
+    <Compile Include="Assets\Scripts\LevelScene.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
